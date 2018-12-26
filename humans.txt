@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joe Cheung	joecheung19960715@gmail.com	@joe251
 
 # THANKS
 
